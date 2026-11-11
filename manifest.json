@@ -1,0 +1,36 @@
+{
+  "version": "0.1.0-beta.6",
+  "date": "2026-11-11T09:49:23.637Z",
+  "notes": "- chore: ignore local Claude settings\n- feat(update): show update progress, settings and a restart button\n- feat(tauri): swap in a staged update and relaunch\n- feat(update): download new versions in the background through jsDelivr\n- feat(ask): let the model choose single or multiple selection per question\n- feat(auto): hand blocked commands to the user and remember approvals exactly\n- feat(chat): render Markdown in user messages\n- feat(composer): open a code block on Return after a fence and frame it as one box\n- fix(ui): keep the first table column readable and let the running dot only breathe\n- fix(chat): show the plan once at the end of the transcript\n- fix(sessions): name the other session in merge status instead of a merge button\n- fix(mobile): put sheet grabbers at the top edge and stop the flash after a drag\n- fix(models): keep provider menu action labels on one line\n- feat(mobile): make sheet handles and sidebar drags follow touch\n- feat(chat): reveal streamed text and show plans inline\n- feat(sessions): persist questions and queue background merges",
+  "mac": {
+    "name": "Kestrel-0.1.0-beta.6-macOS.zip",
+    "size": 30645050,
+    "sha256": "b6c0382ead15c087c10a68c981cd16328f49eea00c95820f220d62c7c4c769d9",
+    "chunks": [
+      {
+        "path": "mac/Kestrel-0.1.0-beta.6-macOS.zip.000",
+        "size": 15728640,
+        "sha256": "61f66a090445d10ec9a6d28aabd9835e2867cb610899e2cb91eba2ce252961e3"
+      },
+      {
+        "path": "mac/Kestrel-0.1.0-beta.6-macOS.zip.001",
+        "size": 14916410,
+        "sha256": "c4415f460f00a69365e117b783843c9af25c3ab09678e69ce3c7504e8f75cf6d"
+      }
+    ]
+  },
+  "ios": {
+    "name": "Kestrel-0.1.0-beta.6.ipa",
+    "size": 4161851,
+    "sha256": "0b9895d7f7fbe88f39f4c1339aa3e8abcc7c078d0c968708a1317e8fe7ba5e1c",
+    "chunks": [
+      {
+        "path": "ios/Kestrel-0.1.0-beta.6.ipa.000",
+        "size": 4161851,
+        "sha256": "0b9895d7f7fbe88f39f4c1339aa3e8abcc7c078d0c968708a1317e8fe7ba5e1c"
+      }
+    ],
+    "build": 6
+  },
+  "page": "https://github.com/hj5230/kestrel/releases/tag/v0.1.0-beta.6"
+}
