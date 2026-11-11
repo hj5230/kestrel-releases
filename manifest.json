@@ -1,0 +1,36 @@
+{
+  "version": "0.1.0-beta.8",
+  "date": "2026-11-11T17:55:10.783Z",
+  "notes": "- fix(chat): give the plan a lifecycle per turn",
+  "mac": {
+    "name": "Kestrel-0.1.0-beta.8-macOS.zip",
+    "size": 30644650,
+    "sha256": "1a15069ebe0cd6ba7c7fbfec9d0b5753f507aae6548dc1cebce07ef2f8b05b91",
+    "chunks": [
+      {
+        "path": "mac/Kestrel-0.1.0-beta.8-macOS.zip.000",
+        "size": 15728640,
+        "sha256": "49b626b67fea0ae53f51765309735d8ca420303cd0deb3cded75e6b6c40d14d8"
+      },
+      {
+        "path": "mac/Kestrel-0.1.0-beta.8-macOS.zip.001",
+        "size": 14916010,
+        "sha256": "d7a93be38a6f27a1f4c70f5b82eff1831a8f15afbcb89932c3be151674338004"
+      }
+    ]
+  },
+  "ios": {
+    "name": "Kestrel-0.1.0-beta.8.ipa",
+    "size": 4161848,
+    "sha256": "8a271689a19f182bdb94f45c1b463ca2413e30843eb32cb9da0d3fd633591700",
+    "chunks": [
+      {
+        "path": "ios/Kestrel-0.1.0-beta.8.ipa.000",
+        "size": 4161848,
+        "sha256": "8a271689a19f182bdb94f45c1b463ca2413e30843eb32cb9da0d3fd633591700"
+      }
+    ],
+    "build": 8
+  },
+  "page": "https://github.com/hj5230/kestrel/releases/tag/v0.1.0-beta.8"
+}
