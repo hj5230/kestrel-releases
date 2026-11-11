@@ -1,0 +1,36 @@
+{
+  "version": "0.1.0-beta.7",
+  "date": "2026-11-11T17:28:57.864Z",
+  "notes": "- fix(update): show the update in the sidebar while it downloads and space About like other pages\n- fix(llm): send images from tool results as images on OpenAI-compatible providers",
+  "mac": {
+    "name": "Kestrel-0.1.0-beta.7-macOS.zip",
+    "size": 30644973,
+    "sha256": "bf6f079394c67c5f3a6124b1e98dd3eb338737ca161cadfa61523ef6e9ba2860",
+    "chunks": [
+      {
+        "path": "mac/Kestrel-0.1.0-beta.7-macOS.zip.000",
+        "size": 15728640,
+        "sha256": "976bd6bb0a2984d558e3dc3947938917f9329794a8730d7cca579fe7ebd4958a"
+      },
+      {
+        "path": "mac/Kestrel-0.1.0-beta.7-macOS.zip.001",
+        "size": 14916333,
+        "sha256": "40578e7a25dbfb8e6324bb1b242f101a6ec3bbc7b4d2640aee1aaf814499ef93"
+      }
+    ]
+  },
+  "ios": {
+    "name": "Kestrel-0.1.0-beta.7.ipa",
+    "size": 4161471,
+    "sha256": "16668c6c218039ae356347988246f15fdbb89ae48c89c032fd3f453e4232f3db",
+    "chunks": [
+      {
+        "path": "ios/Kestrel-0.1.0-beta.7.ipa.000",
+        "size": 4161471,
+        "sha256": "16668c6c218039ae356347988246f15fdbb89ae48c89c032fd3f453e4232f3db"
+      }
+    ],
+    "build": 7
+  },
+  "page": "https://github.com/hj5230/kestrel/releases/tag/v0.1.0-beta.7"
+}
